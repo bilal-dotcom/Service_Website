@@ -6,3 +6,8 @@ This is a one page website that I built using HTML CSS and Bootstrap. This proje
 
 
 Link here: [Link]: https://website-service.netlify.app/
+
+### Technologies
+* HTML
+* CSS
+* Bootstrap
